@@ -1,0 +1,9 @@
+SamolotPasazerski,-1,2,20.0,300.0,200.0,4,SPP-1492,Boeing,270,LOT
+SamolotTransportowy,5,10,40.0,200.0,150.0,2,SLL-1500,Boeing,1500.0,DHL
+SamolotWojskowy,10,5,100.0,150.0,0.0,4,AAL-15560,Airbus,10,USA
+SamolotSportowy,2,8,5.0,90.0,150.0,1,SII-150,Cesna,Czerwony
+SamolotModelarski,2,1,3.0,5.0,5.0,1,LLA-1,Baggo,150,1:40
+SamolotRolniczy,-5,10,5.0,30.0,250.0,1,SAA-1,Cesna,250.0
+Szybowiec,-100,-20,100.0,30.0,222.0,0,SAP-1,DG,25000.0
+Sterowiec,500,200,30.0,27.0,140.0,1,LLL-123,Sterowiec Polska,1500.0,300.0
+HotAirBaloon,10,20,40.0,2.0,10.0,0,IAA-5,HAB,1500.0
